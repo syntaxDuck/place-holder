@@ -20,4 +20,4 @@
 
 ## Repo Orginization
 - Main -> Dev -> Feature Branches
-- Pull requests require review for main?
+- Review process for pulls to main
